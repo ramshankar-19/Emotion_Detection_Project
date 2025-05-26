@@ -1,8 +1,4 @@
-Here’s a sample README.md file for your Emotion Detection Project based on the repo and the notebook file you provided. You can customize the sections as needed:
-
----
-
-# Emotion Detection Project
+--# Emotion Detection Project
 
 This project uses machine learning techniques to detect human emotions from textual data. The core implementation is contained in the Jupyter notebook [`Emotion_Detection_Project.ipynb`](Emotion_Detection_Project.ipynb).
 
